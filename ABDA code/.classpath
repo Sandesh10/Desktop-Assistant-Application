@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jfoenix.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jna-platform-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jsapi.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/sphinx4.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/stanford-postagger-2011-04-20.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/tika-app-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Desktop/ABDA group 6/College/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

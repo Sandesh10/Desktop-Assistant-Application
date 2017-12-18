@@ -1,0 +1,220 @@
+{
+    "nodes": [
+        {
+            "id": "tentative",
+            "label": "tentative",
+            "properties": {
+                "POS": "NN"
+            }
+        },
+        {
+            "id": "provisional",
+            "label": "provisional",
+            "properties": {
+                "POS": "NN"
+            }
+        },
+        {
+            "id": "bridge",
+            "label": "bridge",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "overpass",
+            "label": "overpass",
+            "properties": {
+                "POS": "NN"
+            }
+        },
+        {
+            "id": "cross",
+            "label": "cross",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "perpetual",
+            "label": "perpetual",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "endless",
+            "label": "endless",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "eternal",
+            "label": "eternal",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "delineate",
+            "label": "delineate",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "design",
+            "label": "design",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "portray",
+            "label": "portray",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "model",
+            "label": "model",
+            "properties": {
+                "POS": "NN"
+            }
+        },
+        {
+            "id": "vigilant",
+            "label": "vigilant",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "watchful",
+            "label": "watchful",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "keen-eyed",
+            "label": "keen-eyed",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "observant",
+            "label": "observant",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "try",
+            "label": "try",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "strive",
+            "label": "strive",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "seek",
+            "label": "seek",
+            "properties": {
+                "POS": "VB"
+            }
+        },
+        {
+            "id": "magnificent",
+            "label": "magnificent",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "spectacular",
+            "label": "spectacular",
+            "properties": {
+                "POS": "JJ"
+            }
+        },
+        {
+            "id": "impressive",
+            "label": "impressive",
+            "properties": {
+                "POS": "JJ"
+            }
+        }
+    ],
+    "links": [
+        {
+            "source": "tentative",
+            "target": "provisional"
+        },
+        {
+            "source": "bridge",
+            "target": "overpass"
+        },
+        {
+            "source": "bridge",
+            "target": "cross"
+        },
+        {
+            "source": "perpetual",
+            "target": "eternal"
+        },
+        {
+            "source": "eternal",
+            "target": "endless"
+        },
+        {
+            "source": "delineate",
+            "target": "design"
+        },
+        {
+            "source": "design",
+            "target": "portray"
+        },
+        {
+            "source": "design",
+            "target": "model"
+        },
+        {
+            "source": "vigilant",
+            "target": "watchful"
+        },
+        {
+            "source": "watchful",
+            "target": "observant"
+        },
+        {
+            "source": "observant",
+            "target": "keen-eyed"
+        },
+        {
+            "source": "strive",
+            "target": "seek"
+        },
+        {
+            "source": "seek",
+            "target": "try"
+        },
+        {
+            "source": "magnificent",
+            "target": "spectacular"
+        },
+        {
+            "source": "spectacular",
+            "target": "impressive"
+        }
+    ]
+}
